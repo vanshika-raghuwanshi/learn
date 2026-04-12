@@ -1,2 +1,3 @@
 # learn
-Practice Repository
+Practice Repository.
+Learning fron apna college.
